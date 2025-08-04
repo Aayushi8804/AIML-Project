@@ -1,2 +1,2 @@
-# AIML-Project
-This is an AIML project based on Malware Family Analysis.
+# AIML
+This is an AIML Project based on Malware Family Analysis
